@@ -1,5 +1,5 @@
-# PlotEraser
-[Dash](https://github.com/plotly/dash)-based instrument for correcting data visually
+# Plot Eraser
+[Dash](https://github.com/plotly/dash)-based instrument for correcting data visually.
 _____
 
 ### Use example
